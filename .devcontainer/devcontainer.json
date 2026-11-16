@@ -1,5 +1,5 @@
 {
-  "name": "sgtech-upgrade-handson",
+  "name": "upgrade-handson",
   "build": { "dockerfile": "Dockerfile" },
   "forwardPorts": [8765],
   "portsAttributes": {
